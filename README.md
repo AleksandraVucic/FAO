@@ -1,6 +1,6 @@
 # FAO
 
-![FAO](FAO_logo.png)
+![FAO](FAO.png)
 
 https://aleksandravucic.github.io/FAO/fao.html
 
