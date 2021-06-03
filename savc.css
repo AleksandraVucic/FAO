@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Scada:wght@700&display=swap');
 
+h1{
+    text-align:center;
+}
 body{
      background: radial-gradient(circle,rgb(255, 255, 255) 10%, rgb(226, 248, 103) 49%, rgb(87, 216, 87) 100%);
     }
